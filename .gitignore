@@ -1,0 +1,5 @@
+
+/ember/*
+/WEB-INF/classes/*.class
+/WEB-INF/lib/*.jar
+
